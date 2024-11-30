@@ -124,7 +124,7 @@
                                             <button type="button" id="register-form" class="btn bg-gradient-dark w-100 my-4 mb-2">Sign
                                                 up</button>
                                         </div>
-                                        <p class="text-sm mt-3 mb-0">Already have an account? <a href="javascript:;"
+                                        <p class="text-sm mt-3 mb-0">Already have an account? <a href="/login"
                                                 class="text-dark font-weight-bolder">Sign
                                                 in</a></p>
                                     </form>
